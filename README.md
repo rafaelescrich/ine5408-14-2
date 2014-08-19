@@ -1,4 +1,4 @@
-ine5408-14-2[https://moodle.ufsc.br/course/view.php?id=39826]
+[ine5408-14-2](https://moodle.ufsc.br/course/view.php?id=39826)
 ============
 
 Repositório para o código da disciplina de Estruturas de Dados do curso de Ciências da Computação da UFSC - INE5408
