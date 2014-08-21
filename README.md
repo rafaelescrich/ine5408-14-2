@@ -6,7 +6,7 @@ Repositório para o código da disciplina de Estruturas de Dados do curso de Ci�
 
 # 19/08/2014
 
-Listas, Pilhas e Filas utilizando Vetores (arrays)
+#Listas, Pilhas e Filas utilizando Vetores (arrays)
 
     Gerência e Alocação Dinâmica de Memória
 
