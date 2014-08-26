@@ -39,9 +39,11 @@ A compilação do código é feita usando o [g++](https://gcc.gnu.org/onlinedocs
 
 As opções usadas são:
     
-    g++ -Wall -g -o Hello Hello.cpp
+    g++ -isystem ${GTEST_DIR}/include -Wall -g -o Hello Hello.cpp
 
-Onde -Wall significa "warn all", o que habilita todos os avisos do compilador
+-isystem ${GTEST_DIR}/include , significa que o compilador vai utilizar o diretório aonde está o código do Google Test framework para compilar
+
+-Wall significa "warn all", o que habilita todos os avisos do compilador
 
 -g significa para habilitar o gdb (GNU Debugger)
 
