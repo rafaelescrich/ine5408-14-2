@@ -41,7 +41,12 @@ As opções usadas são:
     
     g++ -Wall -g -o Hello Hello.cpp
 
-Onde -Wall significa "warn all", o que habilita todos os avisos do compilador, -g significa para habilitar o gdb (GNU Debugger) e -o significa Output, onde devemos colocar o nome do arquivo que queremos rodar o programa que compilamos.
+Onde -Wall significa "warn all", o que habilita todos os avisos do compilador
+
+-g significa para habilitar o gdb (GNU Debugger)
+
+-o significa Output, onde devemos colocar o nome do arquivo que queremos rodar o programa que compilamos.
+
 
 # 19/08/2014
 
