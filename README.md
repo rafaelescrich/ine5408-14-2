@@ -50,30 +50,43 @@ Onde -Wall significa "warn all", o que habilita todos os avisos do compilador
 
 # 19/08/2014
 
-#Listas, Pilhas e Filas utilizando Vetores (arrays)
+Listas, Pilhas e Filas utilizando Vetores (arrays)
 
-    Gerência e Alocação Dinâmica de Memória
 
-    Lista Encadeada
+Gerência e Alocação Dinâmica de Memória
 
-    Fila e Pilha Baseados em Listas Encadeadas
 
-    Programa da Disciplina
+Lista Encadeada
 
-    Lista Duplamente Encadeada
 
-    Conceito de Complexidade de Algoritmos
+Fila e Pilha Baseados em Listas Encadeadas
 
-    Introdução a Árvores
 
-    Árvores I
+Programa da Disciplina
 
-    Árvores de Busca II
 
-    Programa da Disciplina
+Lista Duplamente Encadeada
 
-    Hashing
 
-    Gerência de Arquivos
+Conceito de Complexidade de Algoritmos
 
-    Ordenação
+
+Introdução a Árvores
+
+
+Árvores I
+
+
+Árvores de Busca II
+
+
+Programa da Disciplina
+
+
+Hashing
+
+
+Gerência de Arquivos
+
+
+Ordenação
