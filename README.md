@@ -47,6 +47,26 @@ Onde -Wall significa "warn all", o que habilita todos os avisos do compilador
 
 -o significa Output, onde devemos colocar o nome do arquivo que queremos rodar o programa que compilamos.
 
+# Testes
+
+É utilizado o framework de testes unitários do [Google](http://code.google.com/p/googletest/)
+
+Temos um exemplo abaixo de uma classe para testar uma fila:
+
+    class QueueTest : public ::testing::Test {
+        protected:
+            virtual void SetUp() {
+                q1_.Enqueue(1);
+                q2_.Enqueue(2);
+                q2_.Enqueue(3);
+    }
+
+    // virtual void TearDown() {}
+
+        Queue<int> q0_;
+        Queue<int> q1_;
+        Queue<int> q2_;
+    }; 
 
 # 19/08/2014
 
